@@ -1,0 +1,5 @@
+C:\dev\basic_html_website\obj\Debug\net8.0\basic_html_website.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\basic_html_website\obj\Debug\net8.0\basic_html_website.AssemblyInfoInputs.cache
+C:\dev\basic_html_website\obj\Debug\net8.0\basic_html_website.AssemblyInfo.cs
+C:\dev\basic_html_website\obj\Debug\net8.0\basic_html_website.csproj.CoreCompileInputs.cache
+C:\dev\basic_html_website\obj\Debug\net8.0\basic_html_website.sourcelink.json
