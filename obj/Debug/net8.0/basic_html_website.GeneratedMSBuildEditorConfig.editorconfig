@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = basic_html_website
-build_property.ProjectDir = C:\dev\basic_html_website\
+build_property.ProjectDir = C:\Users\tj.higley\Documents\GitHub\basic_html_website\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

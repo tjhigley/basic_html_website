@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8GNIAjFLcLM3lVnbYIUUqEIqOdV0tpM/2pUcy61eTBo=",
+  "Hash": "rtBayoXjl+tjxF0aj7A/EdKiPrGF6yXNDFH5ZehsnRU=",
   "Source": "BasicWebsite",
   "BasePath": "_content/BasicWebsite",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BasicWebsite\\wwwroot",
       "Source": "BasicWebsite",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BasicWebsite.styles.css",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BasicWebsite.styles.css",
       "SourceId": "BasicWebsite",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "BasicWebsite.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\dev\\basic_html_website\\BasicWebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BasicWebsite.styles.css"
+      "OriginalItemSpec": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BasicWebsite.styles.css"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BasicWebsite.bundle.scp.css",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BasicWebsite.bundle.scp.css",
       "SourceId": "BasicWebsite",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "BasicWebsite.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\dev\\basic_html_website\\BasicWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BasicWebsite.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BasicWebsite.bundle.scp.css"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\app.css",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-utilities.css",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-utilities.css.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap.css",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.esm.js",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.esm.js.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.js",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\favicon.png",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\images\\1232.png",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\images\\1232.png",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "images/1232.png",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1232.png"
     },
     {
-      "Identity": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\images\\games_rimworld.png",
+      "Identity": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\images\\games_rimworld.png",
       "SourceId": "BasicWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\basic_html_website\\BasicWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\wwwroot\\",
       "BasePath": "_content/BasicWebsite",
       "RelativePath": "images/games_rimworld.png",
       "AssetKind": "All",
