@@ -1,0 +1,119 @@
+﻿@page "/extra"
+@rendermode InteractiveServer
+
+<PageTitle>Counter</PageTitle>
+
+<div class="card" style="max-width: 40%;">
+    <div class="card-body">
+        <h5>Counter</h5>
+
+        <p role="status">Current count: @currentCount</p>
+
+        <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+    </div>
+</div>
+
+<div class="card mt-2" style="max-width: 40%;">
+    <div class="card-body">
+        <h5>Basic Calculator</h5>
+
+        <label class="form-label">First Number</label>
+        <input class="form-control" @bind-value="Number1">
+
+        <label class="form-label mt-2">Operation</label>
+        <select class="form-select" @bind="Operation">
+            <option value="+">+</option>
+            <option value="-">-</option>
+            <option value="*">*</option>
+            <option value="/">/</option>
+            <option value="%">%</option>
+        </select>
+
+        <label class="form-label mt-2">Second Number</label>
+        <input class="form-control" @bind-value="Number2">
+
+        <label class="form-label mt-2">Result</label>
+        <input class="form-control" readonly @bind-value="calculatedValue">
+
+        <button class="btn btn-primary mt-2" @onclick="Calculate">Calculate</button>
+    </div>
+</div>
+
+<div class="card mt-2" style="max-width: 40%;">
+    <div class="card-body">
+        <h5>Live Clock</h5>
+
+        <span id="clock"></span>
+    </div>
+</div>
+
+<script>
+    let clock = document.getElementById('clock');
+
+    function time() {
+        var d = new Date();
+        var s = d.getSeconds();
+        var m = d.getMinutes();
+        var h = d.getHours();
+        clock.textContent =
+            ("0" + h).substr(-2) + ":" + ("0" + m).substr(-2) + ":" + ("0" + s).substr(-2);
+    }
+
+    setInterval(time, 1000);
+</script>
+
+@code {
+    private int currentCount = 0;
+
+    private decimal Number1 = 0;
+    private decimal Number2 = 0;
+    private char Operation = '+';
+    private string calculatedValue = "";
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+
+    private void Calculate()
+    {
+        switch (Operation)
+        {
+            case '+':
+                {
+                    calculatedValue = (Number1 + Number2).ToString();
+                    break;
+                }
+            case '-':
+                {
+                    calculatedValue = (Number1 - Number2).ToString();
+                    break;
+                }
+            case '*':
+                {
+                    calculatedValue = (Number1 * Number2).ToString();
+                    break;
+                }
+            case '/':
+                {
+                    if (Number2 == Convert.ToDecimal(0))
+                    {
+                        calculatedValue = "N/A";
+                        break;
+                    }
+                    calculatedValue = (Number1 / Number2).ToString();
+                    break;
+                }
+            case '%':
+                {
+                    if (Number2 == Convert.ToDecimal(0))
+                    {
+                        calculatedValue = "N/A";
+                        break;
+                    }
+                    calculatedValue = (Number1 % Number2).ToString();
+                    break;
+                }
+        }
+    }
+}
