@@ -8,24 +8,27 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tjhig\\.nuget\\packages\\": {}
+    "C:\\Users\\tj.higley\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\basic_html_website\\BasicWebsite\\BasicWebsite.csproj",
+      "projectUniqueName": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\BasicWebsite.csproj",
       "projectName": "BasicWebsite",
-      "projectPath": "C:\\dev\\basic_html_website\\BasicWebsite\\BasicWebsite.csproj",
-      "packagesPath": "C:\\Users\\tjhig\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\basic_html_website\\BasicWebsite\\obj\\",
+      "projectPath": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\BasicWebsite.csproj",
+      "packagesPath": "C:\\Users\\tj.higley\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tj.higley\\Documents\\GitHub\\basic_html_website\\BasicWebsite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tjhig\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\tj.higley\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
